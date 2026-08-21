@@ -1,4 +1,4 @@
 # ash.ud
-This repository describes and encloses a very highly engaged ai voice character which is emotionally stable and knowledgeable more than a human. <br>
+This repository describes an e-commerce website which is fully loaded with different stocks of websites to be sold. <br>
 Author - Umang Dubey <br>
 Prescribed by - A developer
